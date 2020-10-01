@@ -7,8 +7,25 @@ A simple yet elegant Scientific Calculator App just make those mathematical calc
  
  **SCREENSHOTS**
  
- <img width="300"  height = "533" src="https://github.com/uditswaroopa/bluebirds/blob/APP3/screenshots/ui.jpg"></img>
+Simplify Complex Expression : 
+ <img width="300"  height = "533" src="https://github.com/uditswaroopa/bluebirds/blob/APP3/screenshots/exp.jpeg"></img>
+ 
+Decimal to Binary
+ <img width="300"  height = "533" src="https://github.com/uditswaroopa/bluebirds/blob/APP3/screenshots/dtob.jprg"></img>
+ 
+Decimal to Hexadecimal
+ <img width="300"  height = "533" src="https://github.com/uditswaroopa/bluebirds/blob/APP3/screenshots/dtoh.jprg"></img>
+ 
+Decimal to Octal
+ <img width="300"  height = "533" src="https://github.com/uditswaroopa/bluebirds/blob/APP3/screenshots/dtoo.jpeg"></img>
+ 
+Log
+ <img width="300"  height = "533" src="https://github.com/uditswaroopa/bluebirds/blob/APP3/screenshots/l0g.jpeg"></img>
+ 
+Natural Log
+ <img width="300"  height = "533" src="https://github.com/uditswaroopa/bluebirds/blob/APP3/screenshots/ln.jpeg"></img>
 
+*** & many more***
 **EXTERNAL PACKAGE USED**
 
  - math_expression
