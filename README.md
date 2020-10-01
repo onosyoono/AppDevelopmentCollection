@@ -8,7 +8,19 @@ A simple yet elegant Scientific Calculator App just make those mathematical calc
  **SCREENSHOTS**
  
 Simplify Complex Expression : 
- <img width="300"  height = "533" src="https://github.com/uditswaroopa/AppDevelopmentCollection/tree/master/screenshots/exp.jpeg"></img>
-**EXTERNAL PACKAGE USED**
 
+ <img width="300"  height = "533" src="https://github.com/uditswaroopa/AppDevelopmentCollection/blob/master/screenshots/exp.jpeg"></img>
+ 
+ <img width="300"  height = "533" src="https://github.com/uditswaroopa/AppDevelopmentCollection/blob/master/screenshots/dtoo.jpeg"></img>
+ 
+ <img width="300"  height = "533" src="https://github.com/uditswaroopa/AppDevelopmentCollection/blob/master/screenshots/dtob.jpeg"></img>
+ 
+ <img width="300"  height = "533" src="https://github.com/uditswaroopa/AppDevelopmentCollection/blob/master/screenshots/dtoh.jpeg"></img>
+ 
+ <img width="300"  height = "533" src="https://github.com/uditswaroopa/AppDevelopmentCollection/blob/master/screenshots/log.jpeg"></img>
+ 
+ <img width="300"  height = "533" src="https://github.com/uditswaroopa/AppDevelopmentCollection/blob/master/screenshots/ln.jpeg"></img>
+
+
+**EXTERNAL PACKAGE USED**
  - math_expression
