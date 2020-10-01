@@ -29,7 +29,7 @@ class Button extends StatelessWidget {
               fontWeight: FontWeight.w800
             ),
           ),
-          color: s == '=' ? Colors.redAccent[400] : Colors.grey[850],
+          color: s == '='  || s == 'AC' ? Colors.redAccent[400] : Colors.grey[850],
         ),
       ),
     );

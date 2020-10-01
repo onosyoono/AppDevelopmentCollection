@@ -75,7 +75,7 @@ class _CalcAppState extends State<CalcApp> {
                     Button('^',tap),
                     Button('√',tap),
                     Button('e',tap),
-                    Button('XOR',tap),
+                    Button('ln',tap),
                   ],
                 ),
                 //represent column4
